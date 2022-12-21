@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-Wendelly-red.svg)](https://www.linkedin.com/in/wendelly-fleury/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
 <p align="center">
-  <img src="https://github.com/carlosfab/template_portfolio/blob/master/banner.png" >
+  <img src="https://img.freepik.com/fotos-gratis/closeup-de-maos-de-desenvolvedor-digitando-codigo-no-teclado-enquanto-olha-para-telas-de-computador-com-interface-de-programacao-programador-de-software-sentado-na-mesa-com-algoritmo-de-escrita-da-area-de-transferencia_482257-33551.jpg?w=1380&t=st=1671583143~exp=1671583743~hmac=d580fa8981d26d054a8276c403926b634e6f1ae6f6381b0a415ca65aefa1acfe" >
 </p>
 
 # Wendelly F. Project 
